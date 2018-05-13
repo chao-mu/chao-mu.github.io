@@ -26,7 +26,6 @@ github_username:  chao-mu
 plugins:
   - jekyll-feed
   - jekyll-haml
-  - ekyll-font-awesome-sass
 
 font-awesome:
     assets: true
